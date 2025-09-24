@@ -1,2 +1,2 @@
 # 100-days-of-code
-100 days of code in C
+its a repo having 100 days of code in C
