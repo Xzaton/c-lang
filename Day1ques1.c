@@ -13,7 +13,7 @@ Output 2:
 Sum = 19
 
 */
-# include <stdio.h>
+#include <stdio.h>
 
 int main() { 
     int a, b;
@@ -22,4 +22,5 @@ scanf("%d %d", &a, &b);
 
 printf("sum is = %d \n", a+b);
     return 0;
+
 }
